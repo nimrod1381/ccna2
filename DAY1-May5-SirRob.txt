@@ -133,9 +133,9 @@ vlan 10
 vlan 50
    name IPCameraVLAN
 vlan 69
-   name vlanNIMerville
+   name siraHAHA
 vlan 70
-    name EXTRAVLAN
+    name vivamax
 vlan 71
     name HRD-POLICY
 vlan 100
