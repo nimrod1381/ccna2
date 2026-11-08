@@ -105,7 +105,7 @@ ip dhcp Excluded-add 10.42.100.1 10.42.100.100
 ip dhcp pool MGMTDATA
    network 10.42.1.0 255.255.255.0
    default-router 10.42.1.4
-   domain-name MGMTDATA.COM
+   domain-name data.merville
    dns-server 10.42.1.10
 ip dhcp pool WIFIDATA
    network 10.42.10.0 255.255.255.0
@@ -133,7 +133,7 @@ vlan 10
 vlan 50
    name IPCameraVLAN
 vlan 69
-   name vlanNIrobert
+   name vlanNIMerville
 vlan 70
     name EXTRAVLAN
 vlan 71
